@@ -1,0 +1,16 @@
+## 👋 Hi, I’m Jinja but you can call me Jin.
+![](https://visitor-badge.laobi.icu/badge?page_id=Jinja-Ninja.Jinja-Ninja)
+[![Github](https://img.shields.io/github/followers/Jinja-Ninja?label=Follow&style=social)](https://github.com/Jinja-Ninja)
+- 👀 I’m interested in programming and cyber security.
+- 🌱 I’m fluent in Python and I'm currently learning Java, C, C++, and C#.
+- 🖥 I’m currently developing toolkits and stuff like that.
+- ⚡ Fun fact: I love playing computer games.
+
+## ✉️ You can reach me on:
+
+
+<p align="center">
+ <a href="https://discord.com/users/799298161235460127/" target="_blank" rel="noopener noreferrer"> <img src="https://iconmonstr.com/?s2member_file_download_key=c65f7c755ff095148348f04d0073dbaa&s2member_file_download=2018/svg/iconmonstr-discord-1.svg" alt="Discord" height="40" style="vertical-align:top; margin:4px"> </a>
+</p>
+
+<br />
