@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Jinja but you can call me Jin.
+## 👋 Hi, I’m Jinja but you can call me Jin
 ![](https://visitor-badge.laobi.icu/badge?page_id=Jinja-Ninja.Jinja-Ninja)
 [![Github](https://img.shields.io/github/followers/Jinja-Ninja?label=Follow&style=social)](https://github.com/Jinja-Ninja)
 - 👀 I’m interested in programming and cyber security.
