@@ -3,8 +3,8 @@
 [![Github](https://img.shields.io/github/followers/Jinja-Ninja?label=Follow&style=social)](https://github.com/Jinja-Ninja)
 - 👀 I’m interested in programming and cyber security.
 - 🌱 I’m fluent in Python and I'm currently learning Java, C, C++, and C#.
-- 🖥 I’m currently developing toolkits and stuff like that.
-- ⚡ Fun fact: I love playing computer games.
+- 🖥 I’m currently developing toolkits, exploits and stuff like that.
+- ⚡ Fun fact: I love cardistry and Lo-Fi music.
 
 ## ✉️ You can reach me on:
 
