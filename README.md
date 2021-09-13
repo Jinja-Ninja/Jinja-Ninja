@@ -4,7 +4,7 @@
 - 👀 I’m interested in programming and cyber security.
 - 🌱 I’m fluent in Python and I'm currently learning Java, C, C++, and C#.
 - 🖥 I’m currently developing toolkits, exploits and stuff like that.
-- ⚡ Fun fact: I love cardistry and Lo-Fi music.
+- ⚡ Fun fact(s): I love cardistry and Lo-Fi music.
 
 ## ✉️ You can reach me on:
 
